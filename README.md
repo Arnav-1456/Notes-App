@@ -60,16 +60,14 @@ npm run dev
 
 ## 🌐 Live Demo
 
-```
-https://notes-app-ten-bay.vercel.app/
-```
+👉 [Open Notes App](https://notes-app-ten-bay.vercel.app/)
 
 ---
 
-## &#x20;🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 * Understanding **React component structure**
 * Handling **forms & events**
 * Managing **state with useState**
 * Rendering **dynamic lists**
-* Implementing **CRUD basics (Create & Delete)** 
+* Implementing **CRUD basics (Create & Delete)**

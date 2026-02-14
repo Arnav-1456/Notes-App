@@ -1,16 +1,75 @@
-# React + Vite
+# 📝 Notes Taking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive **Notes Taking Web Application** built using **React + Tailwind CSS** that allows users to create and delete notes instantly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## React Compiler
+* Add notes with **title and details**
+* Delete notes dynamically
+* Responsive UI using **Tailwind CSS**
+* Built with **modern React hooks (useState)**
+* Clean and beginner-friendly project structure
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **Frontend:** React (Vite)
+* **Styling:** Tailwind CSS
+* **State Management:** React Hooks (useState)
+* **Version Control:** Git & GitHub
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── App.jsx
+ ├── main.jsx
+ ├── index.css
+ └── assets/
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/Arnav-1456/Notes-App.git
+cd Notes-App
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run the development server:
+
+```
+npm run dev
+```
+
+---
+
+## 🌐 Live Demo
+
+```
+https://notes-app-ten-bay.vercel.app/
+```
+
+---
+
+## &#x20;🎯 Learning Outcomes
+
+* Understanding **React component structure**
+* Handling **forms & events**
+* Managing **state with useState**
+* Rendering **dynamic lists**
+* Implementing **CRUD basics (Create & Delete)** 

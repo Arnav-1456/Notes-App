@@ -32,7 +32,7 @@ import { X } from 'lucide-react';
           <button className='bg-white text-black   px-5 w-full py-2 rounded'>Add Notes</button>  
         </form>
         <div className='lg:border-l-2 p-10 lg:w-1/2'>
-        <h1 className='text-3xl font-bold'>Your Notes</h1>
+        <h1 className='text-3xl font-bold'>Recent Notes</h1>
           <div className='flex flex-wrap  items-start justify-start gap-5 mt-5 overflow-auto h-full'>
            {tasks.map((task,index)=>{  
            return(
